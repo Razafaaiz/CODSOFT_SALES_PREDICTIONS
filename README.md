@@ -16,7 +16,6 @@ The dataset used in this project is obtained from Kaggle and contains informatio
 Data Preparation
 -----------------------------------------------------------------------------------------------------------
 The data preparation phase involves several important steps, including checking for missing values, handling duplicates, removing outliers, and encoding categorical data. The steps include:
-
 Checking for missing values and ensuring data integrity.
 Removing duplicates from the dataset.
 Identifying and handling outliers using Z-score-based methods.
@@ -27,7 +26,6 @@ Encoding categorical data, such as the country, using one-hot encoding.
 Exploratory Data Analysis
 -------------------------------------------------------------------------------------------------------------------------------
 The exploratory data analysis (EDA) phase involves gaining insights from the data. Some key findings from EDA include:
-
 Understanding the distribution of car purchase amounts.
 Analyzing the distribution of customer ages.
 Investigating the relationship between age and car purchase amounts.
@@ -38,7 +36,6 @@ Investigating the correlation between features through correlation matrices and 
 Modeling
 ------------------------------------------------------------------------------------------------------------------------------
 The project involves training and evaluating several regression models, including:
-
 Linear Regression
 Ridge Regression
 Random Forest Regression
@@ -48,7 +45,6 @@ The models are assessed for their ability to predict car purchase amounts, and t
 Conclusion
 --------------------------------------------------------------------------------------------------------------------------------
 The project's key findings and conclusions are as follows:
-
 The best-performing model for predicting car purchase amounts is the tuned XGBoost Regression model.
 Insights from exploratory analysis can inform marketing strategies, such as targeting specific age groups and gender-based marketing.
 The model can be deployed to make real-time predictions for new customers.
