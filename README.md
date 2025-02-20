@@ -6,7 +6,6 @@ The Sales Prediction project leverages data science and machine learning techniq
 Objectives
 --------------------------------------------------------------------------------------------------
 The main objectives of this project are as follows:
-
 Build a machine learning model to predict car purchase amounts based on customer attributes.
 Evaluate the model's performance and accuracy.
 Provide insights to help businesses optimize their advertising strategies and maximize sales potential.
