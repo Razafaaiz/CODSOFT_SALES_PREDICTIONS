@@ -25,6 +25,7 @@ Scaling numerical features for consistent model performance.
 Encoding categorical data, such as the country, using one-hot encoding.
 -----------------------------------------------------------------------------------------------------------------------------
 Exploratory Data Analysis
+-------------------------------------------------------------------------------------------------------------------------------
 The exploratory data analysis (EDA) phase involves gaining insights from the data. Some key findings from EDA include:
 
 Understanding the distribution of car purchase amounts.
@@ -35,6 +36,7 @@ Analyzing the influence of gender on mean car purchase amounts.
 Investigating the correlation between features through correlation matrices and data distribution plots.
 -------------------------------------------------------------------------------------------------------------------------------------
 Modeling
+------------------------------------------------------------------------------------------------------------------------------
 The project involves training and evaluating several regression models, including:
 
 Linear Regression
